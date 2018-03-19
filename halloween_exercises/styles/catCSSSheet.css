@@ -1,0 +1,86 @@
+/*Set the default font for the whole webpage*/
+/*Header
+Name:Main.css
+Programmer: Colton Goring
+Date:Feb/ 12th 2018
+Purpose: To stylize given elements of the HalloweenStore webpage.
+*/
+
+/*Set the default font for the whole webpage*/
+html *
+{
+	font-family:Arial;
+	
+	
+}
+/*Anything with the id="headH3"*/
+
+
+
+
+header
+{
+background: linear-gradient(to top left, black, orange, white);
+}
+.img
+{
+	float:left;
+}
+
+
+#headH3
+{
+	/*Increase font size*/
+	font-size:35px;
+	/*Make orange*/
+	color:#FF9C08;
+	/*Italisise*/
+	font-style:italic;
+	/*Give a shadow to*/
+	text-shadow: -1px -1px 4px black;
+}
+
+/*Anything with the class="headerHead"*/
+.headerHead
+{
+	/*Indent*/
+	text-indent:20px;
+}
+
+body
+{
+background-color:white;
+width:800px;
+box-shadow:-1px -2px 4px black;
+}
+
+.column
+{
+	float:left;
+	height:100%;
+	width:160px;
+	
+}
+
+.column2
+{
+	float=left;
+	width=
+}
+
+/*Make the footer smaller and centered*/
+footer
+{
+	background: linear-gradient(to bottom right, black, orange, white);
+	font-size:70%;
+	text-align:center;
+	height:30px;
+	
+	
+}
+.bg
+{
+	background-image:src=("images\bats.gif");
+	background-repeat:repeat-x;
+	background-repeat:repeat-y;
+}

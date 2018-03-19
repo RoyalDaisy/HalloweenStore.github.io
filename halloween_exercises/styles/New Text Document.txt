@@ -1,0 +1,7 @@
+/*Set the default font for the whole webpage*/
+html *
+{
+	font-family:Arial;
+	
+	
+}
